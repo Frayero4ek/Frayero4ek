@@ -1,5 +1,5 @@
 <a href="https://github.com/Frayero4ek">
-  <img src="https://github.com/Frayero4ek/Frayero4ek/blob/main/assets/24185a2f134d2ca3cf6680b550d73e21.gif" width="400"/>
+  <img src="https://github.com/Frayero4ek/Frayero4ek/blob/main/assets/24185a2f134d2ca3cf6680b550d73e21.gif" width="850"/>
 </a>
 
 
