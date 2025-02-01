@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://github.com/Frayero4ek/Frayero4ek/blob/main/assets/pixel-cat.gif">
-  <img src="https://github.com/Frayero4ek/Frayero4ek/blob/main/assets/pixel-cat.gif" alt="Pixel Cat Sticker" width="100" height="130" />
+  <img src="https://github.com/Frayero4ek/Frayero4ek/blob/main/assets/pixel-cat.gif" alt="Pixel Cat Sticker" width="130" height="100" />
 </a>
 
 ### 🚀 Passionate Developer Focused on Crafting Web Solutions<br>💻 Experienced with PHP, JavaScript, Docker, and MySQL
