@@ -1,7 +1,8 @@
 <a href="https://github.com/Frayero4ek">
-  <img src="https://github.com/Frayero4ek/Frayero4ek/blob/main/assets/24185a2f134d2ca3cf6680b550d73e21.gif"height="300" width="850"/>
+  <img src="https://github.com/Frayero4ek/Frayero4ek/blob/main/assets/3ae2be78c25d7ac62ca3e537dcc78bd9.jpg"height="300" width="850"/>
 </a>
 
+![Small Gif](https://github.com/Frayero4ek/Frayero4ek/blob/main/assets/ddaa813eef9fb1c57a8dfd6142a3d955.gif)
 
 ### 🌍 Growing Company Toward Global Recognition<br>🚀 Building Tomorrow's Mobile Experiences Today
 
@@ -23,6 +24,5 @@ Our team leverages the latest technologies to create seamless, high-performance 
 
 Be one of the first to join our growing community and transform your everyday life.
 
-[![Instagram] 
-[![Telegram] 
- 
+[![Instagram]
+[![Telegram]
