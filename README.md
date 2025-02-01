@@ -1,4 +1,4 @@
-[![Header](https://github.com/Frayero4ek/Frayero4ek/tree/main/assets)](https://github.com/Frayero4ek)
+[![Header](https://github.com/Frayero4ek/Frayero4ek/blob/main/assets/24185a2f134d2ca3cf6680b550d73e21.gif)](https://github.com/Frayero4ek)
 
 ### 🎯 CEO of Shpavda LLP<br>🌍 Growing Company Toward Global Recognition<br>🚀 Building Tomorrow's Mobile Experiences Today
 
