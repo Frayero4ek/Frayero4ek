@@ -3,7 +3,7 @@
 </a>
 
 <a href="https://github.com/Frayero4ek">
-  <img src="https://github.com/Frayero4ek/Frayero4ek/blob/main/assets/ddaa813eef9fb1c57a8dfd6142a3d955.gif" height=100" width="100"/>
+  <img src="https://github.com/Frayero4ek/Frayero4ek/blob/main/assets/ddaa813eef9fb1c57a8dfd6142a3d955.gif" height=100" width="120"/>
 </a>
 
 
