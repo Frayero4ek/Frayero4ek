@@ -7,7 +7,8 @@
 </a>
 
 
-### 🌍 Growing Company Toward Global Recognition<br>🚀 Building Tomorrow's Mobile Experiences Today
+### 🚀 Passionate Developer Focused on Crafting Web Solutions<br>💻 Experienced with PHP, JavaScript, Docker, and MySQL
+
 
 ## Platforms:
 
