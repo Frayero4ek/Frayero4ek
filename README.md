@@ -8,23 +8,29 @@
 
 ### 🚀 Passionate Developer Focused on Crafting Web Solutions<br>💻 Experienced with PHP, JavaScript, Docker, and MySQL
 
-## Platforms:
+## My Stacks:
+<div>
+<img src="https://img.shields.io/badge/HTML-010101?style=for-the-badge&logo=html5&logoColor=yellow" />
+<img src="https://img.shields.io/badge/CSS-010101?style=for-the-badge&logo=css3&logoColor=2965F1" />
+<img src="https://img.shields.io/badge/JavaScript-010101?style=for-the-badge&logo=javascript&logoColor=yellow" />
+<img src="https://img.shields.io/badge/TypeScript-010101?style=for-the-badge&logo=typescript&logoColor=3178C6" />
+<img src="https://img.shields.io/badge/PHP-010101?style=for-the-badge&logo=php&logoColor=8892BF" />
 
-Our team leverages the latest technologies to create seamless, high-performance applications that deliver a consistent user experience across iOS, Android, and web platforms.
+<div/>
 
-<a href="https://apps.apple.com/developer/shpavda-too/id1779139180" target="_blank">
-  <img src=" " alt="App Store" width="180"/>
+
+ 
+## Tools:
+<div>
+  <img src="https://img.shields.io/badge/Docker-010101?style=for-the-badge&logo=docker&logoColor=2496ED" />
+  <img src="https://img.shields.io/badge/Git-010101?style=for-the-badge&logo=git&logoColor=F05032" />
+  <img src="https://img.shields.io/badge/MySQL-010101?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+
+</div>
+
+## Contacts:
+
+<a href="https://t.me/LazyDevvv" target="_blank">
+  <img src="https://img.shields.io/badge/Telegram-010101?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
 </a>
-<a href=" " target="_blank">
-  <img src=" " alt="Google Play" width="180"/>
-</a>
-<a href="https://the-unl.com" target="_blank">
-  <img src=" " alt="The Unlimited" width="180"/>
-</a>
 
-## Social Media:
-
-Be one of the first to join our growing community and transform your everyday life.
-
-[![Instagram]
-[![Telegram]
