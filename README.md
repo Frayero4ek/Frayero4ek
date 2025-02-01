@@ -1,4 +1,4 @@
-[![Header](https://github.com/AlexeyShpavda/alexeyshpavda/blob/master/assets/header.png)](https://www.shpavda.com/)
+[![Header](https://github.com/Frayero4ek/Frayero4ek/tree/main/assets)](https://github.com/Frayero4ek)
 
 ### 🎯 CEO of Shpavda LLP<br>🌍 Growing Company Toward Global Recognition<br>🚀 Building Tomorrow's Mobile Experiences Today
 
