@@ -1,10 +1,15 @@
 <a href="https://github.com/Frayero4ek">
-  <img src="https://github.com/Frayero4ek/Frayero4ek/blob/main/assets/3ae2be78c25d7ac62ca3e537dcc78bd9.jpg"height="300" width="850"/>
+  <img src="https://github.com/Frayero4ek/Frayero4ek/blob/main/assets/3ae2be78c25d7ac62ca3e537dcc78bd9.jpg"height="250" width="850"/>
 </a>
 
-![Small Gif](https://github.com/Frayero4ek/Frayero4ek/blob/main/assets/ddaa813eef9fb1c57a8dfd6142a3d955.gif)
+<a href="https://tenor.com/view/pixel-cat-gif-25950025">
+  <img src="https://media.tenor.com/images/aeaf5d1a2b34d7001e4d62c65a66b4c8/tenor.gif" alt="Pixel Cat Sticker" width="200" />
+</a>
 
-### 🌍 Growing Company Toward Global Recognition<br>🚀 Building Tomorrow's Mobile Experiences Today
+
+
+### 🚀 Passionate Developer Focused on Crafting Web Solutions<br>💻 Experienced with PHP, JavaScript, Docker, and MySQL
+
 
 ## Platforms:
 
