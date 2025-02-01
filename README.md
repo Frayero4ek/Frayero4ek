@@ -2,14 +2,11 @@
   <img src="https://github.com/Frayero4ek/Frayero4ek/blob/main/assets/3ae2be78c25d7ac62ca3e537dcc78bd9.jpg"height="250" width="850"/>
 </a>
 
-<a href="https://tenor.com/view/pixel-cat-gif-25950025">
-  <img src="https://media.tenor.com/images/aeaf5d1a2b34d7001e4d62c65a66b4c8/tenor.gif" alt="Pixel Cat Sticker" width="200" />
+<a href="https://github.com/Frayero4ek/Frayero4ek/blob/main/assets/pixel-cat.gif">
+  <img src="https://github.com/Frayero4ek/Frayero4ek/blob/main/assets/pixel-cat.gif" alt="Pixel Cat Sticker" width="100" height="130" />
 </a>
 
-
-
 ### 🚀 Passionate Developer Focused on Crafting Web Solutions<br>💻 Experienced with PHP, JavaScript, Docker, and MySQL
-
 
 ## Platforms:
 
