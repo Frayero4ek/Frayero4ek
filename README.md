@@ -6,13 +6,13 @@
   <img src="https://github.com/Frayero4ek/Frayero4ek/blob/main/assets/pixel-cat.gif" alt="Pixel Cat Sticker" width="130" height="100" />
 </a>
 
-<<<<<<< Updated upstream
+ 
 ## Projects:
 
 1. **[Furniture Project](https://github.com/Frayero4ek/furniture-project)**  
    - **Type**: HTML,SCSS,JS 
    - **Description**: A project showcasing the creation of an online furniture store with a focus on modern design and user experience.
-=======
+ 
 
 
 
@@ -20,7 +20,7 @@
 
 
 ## Platforms:
->>>>>>> Stashed changes
+ 
 
 2. **[Registration and Login System](https://github.com/Frayero4ek/Registration-and-Login-System)**  
    - **Type**: PHP,CSS,JS,DOCKER,HACK  
