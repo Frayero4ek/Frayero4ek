@@ -32,27 +32,27 @@
    - 
 ## My Stacks:
 <div>
-<img src="https://img.shields.io/badge/HTML-010101?style=for-the-badge&logo=html5&logoColor=yellow" />
-<img src="https://img.shields.io/badge/CSS-010101?style=for-the-badge&logo=css3&logoColor=2965F1" />
-<img src="https://img.shields.io/badge/JavaScript-010101?style=for-the-badge&logo=javascript&logoColor=yellow" />
-<img src="https://img.shields.io/badge/TypeScript-010101?style=for-the-badge&logo=typescript&logoColor=3178C6" />
-<img src="https://img.shields.io/badge/PHP-010101?style=for-the-badge&logo=php&logoColor=8892BF" />
+  <img src="https://badgen.net/badge/HTML/black?icon=html5" />
+  <img src="https://badgen.net/badge/CSS/black?icon=css3" />
+  <img src="https://badgen.net/badge/JavaScript/black?icon=javascript" />
+  <img src="https://badgen.net/badge/TypeScript/black?icon=typescript" />
+  <img src="https://badgen.net/badge/PHP/black?icon=php" />
+  <img src="https://badgen.net/badge/React/black?icon=react" />
 
-<div/>
+</div>
+
 
 
  
 ## Tools:
-<div>
-  <img src="https://img.shields.io/badge/Docker-010101?style=for-the-badge&logo=docker&logoColor=2496ED" />
-  <img src="https://img.shields.io/badge/Git-010101?style=for-the-badge&logo=git&logoColor=F05032" />
-  <img src="https://img.shields.io/badge/MySQL-010101?style=for-the-badge&logo=mysql&logoColor=4479A1" />
+[![Docker](https://badgen.net/badge/Docker/black?icon=docker)](https://www.docker.com/)
+[![Git](https://badgen.net/badge/Git/black?icon=git)](https://git-scm.com/)
+[![MySQL](https://badgen.net/badge/MySQL/black?icon=database)](https://www.mysql.com/)
 
-</div>
 
 ## Contacts:
 
 <a href="https://t.me/LazyDevvv" target="_blank">
-  <img src="https://img.shields.io/badge/Telegram-010101?style=for-the-badge&logo=telegram&logoColor=26A5E4" />
+  <img src="https://badgen.net/badge/Telegram/black?icon=telegram" />
 </a>
 
